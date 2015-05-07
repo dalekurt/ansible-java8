@@ -1,5 +1,5 @@
 # Ansible Java 8
-Installs Oracle Java 8 and accepts the license agreement.
+Installs Oracle Java 8.
 
 ## Dependencies
 None
