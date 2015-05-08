@@ -2,7 +2,7 @@
 galaxy_info:
   author: Dale-Kurt Murray
   company: dalekurtmurray.com
-  description: "Installs Oracle Java 8"
+  description: "Ansible role for configuring Oracle Java 8"
   license: MIT
   min_ansible_version: 1.6.3
 
